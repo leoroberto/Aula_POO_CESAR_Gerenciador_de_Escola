@@ -1,0 +1,14 @@
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\bin\Debug\net10.0\Gerenciador de Escola.exe
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\bin\Debug\net10.0\Gerenciador de Escola.deps.json
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\bin\Debug\net10.0\Gerenciador de Escola.runtimeconfig.json
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\bin\Debug\net10.0\Gerenciador de Escola.dll
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\bin\Debug\net10.0\Gerenciador de Escola.pdb
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\obj\Debug\net10.0\Gerenciador de Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\obj\Debug\net10.0\Gerenciador de Escola.AssemblyInfoInputs.cache
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\obj\Debug\net10.0\Gerenciador de Escola.AssemblyInfo.cs
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\obj\Debug\net10.0\Gerenciador de Escola.csproj.CoreCompileInputs.cache
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\obj\Debug\net10.0\Gerenciador de Escola.dll
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\obj\Debug\net10.0\refint\Gerenciador de Escola.dll
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\obj\Debug\net10.0\Gerenciador de Escola.pdb
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\obj\Debug\net10.0\Gerenciador de Escola.genruntimeconfig.cache
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\obj\Debug\net10.0\ref\Gerenciador de Escola.dll
