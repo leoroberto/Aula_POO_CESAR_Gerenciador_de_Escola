@@ -11,4 +11,10 @@ public class RepositorioAlunos
         var aluno = new Aluno(nome, curso, email, matricula);
         listaAlunos.Add(aluno);
     }
+
+    public Aluno Consultar(int matricula)
+    {
+        Aluno alunoConsultado = listaAlunos.Find(aluno => aluno.matricula == matricula);
+        return alunoConsultado;
+    }
 }

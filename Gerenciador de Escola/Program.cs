@@ -7,7 +7,7 @@ class Program
     static void Main(string[] args)
     {
         string opcao;
-        ServicoAlunos servico = new ServicoAlunos();
+        ServicoAlunos servicoAlunos = new ServicoAlunos();
 
         do
         {
@@ -57,18 +57,22 @@ class Program
             Console.WriteLine("Digite a matrícula do aluno: ");
             int matricula = int.Parse(Console.ReadLine());
             
-            string msgRetorno = servico.Adicionar(nome, curso, email, matricula);
+            string msgRetorno = servicoAlunos.Adicionar(nome, curso, email, matricula);
             
             Console.WriteLine(msgRetorno);
         }
         
-        static void ConsultarAluno()
+        void ConsultarAluno()
         {
             Console.WriteLine("Digite a matrícula do aluno: ");
             int matricula = int.Parse(Console.ReadLine());
+
+            string msgRetorno = servicoAlunos.Consultar(matricula);
+            
+            Console.WriteLine(msgRetorno);
         }
         
-        static void DeletarAluno()
+        void DeletarAluno()
         {
             Console.WriteLine("Digite a matrícula do aluno: ");
             int matricula = int.Parse(Console.ReadLine());

@@ -12,3 +12,4 @@ C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\o
 C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\obj\Debug\net10.0\Gerenciador de Escola.pdb
 C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\obj\Debug\net10.0\Gerenciador de Escola.genruntimeconfig.cache
 C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\obj\Debug\net10.0\ref\Gerenciador de Escola.dll
+C:\Users\lrmf\RiderProjects\2026.2\Gerenciador de Escola\Gerenciador de Escola\obj\Debug\net10.0\Gerenciador de Escola.sourcelink.json
