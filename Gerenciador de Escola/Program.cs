@@ -76,6 +76,9 @@ class Program
         {
             Console.WriteLine("Digite a matrícula do aluno: ");
             int matricula = int.Parse(Console.ReadLine());
+
+            string msgRetorno = servicoAlunos.Deletar(matricula);
+            Console.WriteLine(msgRetorno);
         }
     }
 }

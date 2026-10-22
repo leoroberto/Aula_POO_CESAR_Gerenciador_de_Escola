@@ -31,4 +31,16 @@ public class ServicoAlunos
         }
         
     }
+
+    public string Deletar(int matricula)
+    {
+        bool alunoDeletado = repositorio.Deletar(matricula);
+
+        if (alunoDeletado)
+        {
+            return "Aluno deletado com sucesso";
+        }
+
+        return "Aluno não encontrado";
+    }
 }

@@ -17,4 +17,15 @@ public class RepositorioAlunos
         Aluno alunoConsultado = listaAlunos.Find(aluno => aluno.matricula == matricula);
         return alunoConsultado;
     }
+
+    public bool Deletar(int matricula)
+    {
+        Aluno alunoDeletado = Consultar(matricula);
+        if (alunoDeletado != null)
+        {
+            return listaAlunos.Remove(alunoDeletado);
+        }
+
+        return false;
+    }
 }
