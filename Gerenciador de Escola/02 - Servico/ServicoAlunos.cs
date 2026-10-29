@@ -11,9 +11,9 @@ public class ServicoAlunos
         
     }
 
-    public string Adicionar(string nome, string curso, string email, int matricula)
+    public string Adicionar(string nome, string email, string telefone, string cpf, string curso, int matricula)
     {
-        repositorio.Adicionar(nome, curso, email, matricula);
+        repositorio.Adicionar(nome, email, telefone, cpf, curso, matricula);
         return $"Aluno '{nome}' cadastrado com sucesso!\n";
     }
 

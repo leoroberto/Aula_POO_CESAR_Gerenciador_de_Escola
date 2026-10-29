@@ -47,17 +47,23 @@ class Program
         {
             Console.WriteLine("Digite o nome do aluno: ");
             string nome = Console.ReadLine();
+            
+            Console.WriteLine("Digite o email do aluno: ");
+            string email = Console.ReadLine();
+            
+            Console.WriteLine("Digite o telefone do aluno: ");
+            string telefone = Console.ReadLine();
+            
+            Console.WriteLine("Digite a cpf do aluno: ");
+            string cpf = Console.ReadLine();
                     
             Console.WriteLine("Digite o Curso: ");
             string curso = Console.ReadLine();
                     
-            Console.WriteLine("Digite o Email: ");
-            string email = Console.ReadLine();
-                    
             Console.WriteLine("Digite a matrícula do aluno: ");
             int matricula = int.Parse(Console.ReadLine());
             
-            string msgRetorno = servicoAlunos.Adicionar(nome, curso, email, matricula);
+            string msgRetorno = servicoAlunos.Adicionar(nome, email, telefone, cpf, curso, matricula);
             
             Console.WriteLine(msgRetorno);
         }

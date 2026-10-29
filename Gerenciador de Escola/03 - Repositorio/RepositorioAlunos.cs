@@ -6,9 +6,9 @@ public class RepositorioAlunos
     private List<Aluno> listaAlunos = new List<Aluno>();
     
     //CREATE - Adicionar novo Aluno
-    public void Adicionar(string nome, string curso, string email, int matricula)
+    public void Adicionar(string nome, string email, string telefone, string cpf, string curso, int matricula)
     {
-        var aluno = new Aluno(nome, curso, email, matricula);
+        var aluno = new Aluno(nome, email, telefone, cpf, curso, matricula);
         listaAlunos.Add(aluno);
     }
 
